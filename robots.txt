@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://marjce.github.io/QWS/sitemap.QWS.gz
